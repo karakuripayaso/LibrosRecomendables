@@ -8,6 +8,7 @@
     - [C言語](#C言語)
     - [C++](#C++)
     - [C#](#C# )
+    - [git](#git)
     - [その他](#その他)
     - [趣味](#趣味)
 
@@ -47,6 +48,13 @@
     - C#をやりはじめるのにおすすめ。本当に入門で初歩的なことはすべて乗っている。ただしこれ一つでは足りない分もあるので、このあとのさらなる学習は求められる。
 
 - [基礎からしっかり学ぶC#の教科書 改訂新版 (マイクロソフト関連書)](https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%AD%A6%E3%81%B6C-%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E9%96%A2%E9%80%A3%E6%9B%B8-WINGS%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/dp/4822286533/ref=pd_lpo_14_t_0/358-9370126-7862255?_encoding=UTF8&pd_rd_i=4822286533&pd_rd_r=7738114b-20de-4f76-9cd0-44c1ef0f6fb2&pd_rd_w=wkv5l&pd_rd_wg=umEzh&pf_rd_p=4b55d259-ebf0-4306-905a-7762d1b93740&pf_rd_r=6RSVFRYJRGN0CAYT3GNM&psc=1&refRID=6RSVFRYJRGN0CAYT3GNM)
+
+### git
+- [ProGit](http://progit-ja.github.io/)
+    - gitの公式ドキュメントがそのまま本になっている。しかも無料ダウンロード.開発の人たちが書いているので詳しいことも載ってる
+
+- [独習git](https://www.amazon.co.jp/%E7%8B%AC%E7%BF%92Git-%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%83%9E%E3%83%AA/dp/4798144614)
+    - git 初心者の入門によい
 
 ### その他
 - [モータ制御　The　ビギニング ](https://www.amazon.co.jp/%E3%83%A2%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1-%E3%83%93%E3%82%AE%E3%83%8B%E3%83%B3%E3%82%B0-%E8%A5%BF%E7%94%B0-%E9%BA%BB%E7%BE%8E/dp/4526074586)
