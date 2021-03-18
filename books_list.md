@@ -2,11 +2,13 @@
 
 
 ## 目次
-- [プログラミング全般](#プログラミング全般)
-- [C++](#C++)
-- [C#](#C++)
-- [その他](#その他)
-- [趣味](#趣味)
+- [読んでみておすすめの本・おすすめされた本一覧](#読んでみておすすめの本おすすめされた本一覧)
+  - [目次](#目次)
+    - [プログラミング全般](#プログラミング全般)
+    - [C++](#C++)
+    - [C#](#C# )
+    - [その他](#その他)
+    - [趣味](#趣味)
 
 ### プログラミング全般
 - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=pd_bxgy_img_2/358-9370126-7862255?_encoding=UTF8&pd_rd_i=4873115655&pd_rd_r=7a59e970-353d-46b4-803d-67ec87d48917&pd_rd_w=YBPvb&pd_rd_wg=EQAgp&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=AR3W41RQH7G5E02PBS73&psc=1&refRID=AR3W41RQH7G5E02PBS73)
@@ -29,6 +31,12 @@
 - [effectiveC++](https://www.amazon.co.jp/Effective-%E7%AC%AC3%E7%89%88-ADDISON-WESLEY-PROFESSIONAL-COMPUTI/dp/4621066099/ref=pd_lpo_14_img_1/358-9370126-7862255?_encoding=UTF8&pd_rd_i=4621066099&pd_rd_r=673550b1-9a7c-404d-a454-25ff84adfc9b&pd_rd_w=FPyS9&pd_rd_wg=9XYbI&pf_rd_p=4b55d259-ebf0-4306-905a-7762d1b93740&pf_rd_r=G7A2FS1RH3G0ETHBW1KZ&psc=1&refRID=G7A2FS1RH3G0ETHBW1KZ)
     - C++ががっつりかけるようになりたいときに読む本。
     - 各版で内容が変わっている（著者の間違えたものをベースにしている）ので、全版を読むとおすすめ。
+
+- [プログラミング言語C++ 第4版 (日本語) ](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EC-%E7%AC%AC4%E7%89%88-%E3%83%93%E3%83%A3%E3%83%BC%E3%83%8D%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A6%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97/dp/4797375957/ref=asc_df_4797375957/?tag=jpgo-22&linkCode=df0&hvadid=295682859002&hvpos=&hvnetw=g&hvrand=16170467186134705476&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028852&hvtargid=pla-525993800045&psc=1&th=1&psc=1)
+    - C++の製作者が書いたので全てが載っている。プライマーの後に読むといい
+
+- [C++テンプレートテクニック](https://www.amazon.co.jp/C-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E7%AC%AC2%E7%89%88-%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B7/dp/4797376686/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF&qid=1616050993&sr=8-1)
+    - くそ山の王、テンプレートを理解するための書
 
 ### C#
 - [新・標準プログラマーズライブラリ なるほどなっとく C#入門](https://www.amazon.co.jp/%E6%96%B0%E3%83%BB%E6%A8%99%E6%BA%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%82%BA%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA-%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%81%AA%E3%81%A3%E3%81%A8%E3%81%8F-%E5%85%A5%E9%96%80-%E5%87%BA%E4%BA%95-%E7%A7%80%E8%A1%8C/dp/429710458X)
