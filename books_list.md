@@ -9,6 +9,7 @@
     - [C++](#C++)
     - [C#](#C# )
     - [git](#git)
+    - [shell](#shell)
     - [その他](#その他)
     - [趣味](#趣味)
 
@@ -61,6 +62,13 @@
 
 - [独習git](https://www.amazon.co.jp/%E7%8B%AC%E7%BF%92Git-%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%83%9E%E3%83%AA/dp/4798144614)
     - git 初心者の入門によい
+
+### shell
+- [入門bash](https://www.amazon.co.jp/%E5%85%A5%E9%96%80bash-%E7%AC%AC3%E7%89%88-Cameron-Newham/dp/4873112540)
+    - bashについて知っておくべきことは全てが書いてある。ただし初心者が読むのは難しいので、何かlinuxやシェルスクリプトの本を読んでからだと理解しやすい
+
+- [詳解シェルスクリプト](https://www.amazon.co.jp/%E8%A9%B3%E8%A7%A3-%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-Arnold-Robbins/dp/4873112672/ref=pd_bxgy_img_2/357-1896876-5855344?_encoding=UTF8&pd_rd_i=4873112672&pd_rd_r=42502825-1306-4017-86d1-ef6e24815cf4&pd_rd_w=kfnFk&pd_rd_wg=qSnZo&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=90ZQ8PMP4VKG6R200NH4&psc=1&refRID=90ZQ8PMP4VKG6R200NH4)
+    - シェルスクリプトの勉強用の本。入門bashの前にこっちを読むといいかも?詳解というわけではないみたいなのでもしかしたら不足があるかもしれない。
 
 ### その他
 - [モータ制御　The　ビギニング ](https://www.amazon.co.jp/%E3%83%A2%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1-%E3%83%93%E3%82%AE%E3%83%8B%E3%83%B3%E3%82%B0-%E8%A5%BF%E7%94%B0-%E9%BA%BB%E7%BE%8E/dp/4526074586)
